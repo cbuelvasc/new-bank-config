@@ -1,5 +1,5 @@
 build:
-  version: "1.0.0"
+  version: "1.0.1"
 
 accounts:
   message: "Welcome to New Bank accounts related production APIs "
