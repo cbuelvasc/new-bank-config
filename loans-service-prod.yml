@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to New Bank loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@newbank.com"
+    name: "Yojana  Quintero- Product Owner"
+    email: "yquintero@newbank.com"
   onCallSupport:
-    - (723) 656-8709
-    - (156) 342-0956
+    - (+57) 123-45678
+    - (+57) 901-2345
