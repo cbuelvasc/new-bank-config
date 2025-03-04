@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to New Bank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@newbank.com"
+  onCallSupport:
+    - +57 555-1234
+    - +57 523-1345
