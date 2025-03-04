@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to New Bank accounts related prod APIs "
   contactDetails:
     name: "Yojana  Quintero- Product Owner"
-    email: "yquintero@newbank.com"
+    email: "{cipher}6bbe785f5961ba9ef54cf03ba8a066d1d3811550a5f2db7ab6848078aa2a8a9c7b269f26e1369c6667d5b14281fc9426"
   onCallSupport:
     - (+57) 123-45678
     - (+57) 901-2345
